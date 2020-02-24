@@ -1,0 +1,7 @@
+52bd7d138f631696b09f606033d84fe4  fsl-s32v234-evb.dtb
+8ea4c0cbf3c27cf84b12b6e44e0ff9e2  Image
+7a533059789df86da53b098d0023aec5  rootfs.tar.gz.0
+13fe39be0ed0c1855bedd8aaae1aa7bc  rootfs.tar.gz.1
+950d901284fb773e28e4cc41ca396dd0  rootfs.tar.gz.2
+aa700a50fca5361af3061a2a3c3ac661  rootfs.tar.gz.3
+aaddc8e20ead2c79e2e9fd4355e99702  u-boot.s32
